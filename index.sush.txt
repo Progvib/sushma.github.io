@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sushma - Digital Marketing Professional</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #3498db; /* Blue background color */
+            color: #fff; /* White text color */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #container {
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1.2em;
+        }
+
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Hello, I'm Sushma!</h1>
+        <p>I am a digital marketing professional actively seeking job opportunities.</p>
+        <p>You can connect with me on <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a> or follow me on <a href="https://www.instagram.com/your-instagram-account" target="_blank">Instagram</a>.</p>
+    </div>
+</body>
+</html>
